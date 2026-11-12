@@ -1,8 +1,8 @@
 {
-  "research_at": "2026-11-12T20:11:32.295396+00:00",
-  "attempt_at": "2026-11-12T20:11:59.957283+00:00",
+  "research_at": "2026-11-12T21:12:08.800181+00:00",
+  "attempt_at": "2026-11-12T21:12:32.154558+00:00",
   "refresh_ok": true,
   "expected_interval_minutes": 60,
-  "release_id": "b9e5daab250c6c077ac93b916fbfe096b9806feba2d209bc62e987930e6bd360",
-  "version": "53ec9fff6518fd91901ad03d07ed727b6713541b20315b23e9626e92878c7a91"
+  "release_id": "c47a9d409f1ea655074d8c8245fce4f357c3460e05718ada71f62118c482a256",
+  "version": "af6ea8d9fbef9198b798acc5b25491f3b45d1fc337427d085f7b89480ed14363"
 }
